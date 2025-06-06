@@ -2,7 +2,7 @@
 
 
 
-    Sudoku puzzles are becoming increasingly popular among the people all over the 
+    '/Sudoku puzzles are becoming increasingly popular among the people all over the 
 world. The game has become popular now in a large number of countries and many     
  developers have tried to generate even more complicated and more interesting puzzles. To
 day, the game appears in almost every newspaper, in books and in many websites. The back
